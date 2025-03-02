@@ -44,15 +44,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joyalshaji"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joyalshaji135@gmail.com" /></a></p><br><br><br><br>
 🔥 <b>Streak Stats</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&theme=chartreuse-dark&hide_border=false"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh3230db&theme=chartreuse-dark&hide_border=false"  /></p>
 
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-</p><p> <a href="https://github.com/joyalshaji135" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
+</p><p> <a href="https://github.com/Adarsh3230db" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh3230db&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Adarsh3230db&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
 <hr>
 
 <h1 align="center">
@@ -63,9 +63,9 @@
   </p> 
 </div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh3230db&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh3230db&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adarsh3230db&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     
 </div>
 </div>
@@ -75,7 +75,7 @@
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> 
 
-![](https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Adarsh3230db&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 </p>
 
@@ -95,9 +95,9 @@
 <p align = "center">
 
  
-  <img src = "https://github-contributor-stats.vercel.app/api?username=joyalshaji135&limit=6&theme=chartreuse-dark&combine_all_yearly_contributions=true">
+  <img src = "https://github-contributor-stats.vercel.app/api?username=Adarsh3230db&limit=6&theme=chartreuse-dark&combine_all_yearly_contributions=true">
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh3230db&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
 </p>
 
 
