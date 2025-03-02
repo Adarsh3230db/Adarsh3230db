@@ -94,11 +94,11 @@
 
 <hr>
 
- <p><img align="left" width="1000" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="joyalshaji135" /></p> 
+ <p><img align="left" width="1000" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="Adarsh3230db" /></p> 
 
 <img align="center" alt="Code" width="1000" height="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalshaji135&label=Project%20views&color=0e75b6&style=flat" alt="joyalshaji135" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh3230db&label=Project%20views&color=0e75b6&style=flat" alt="joyalshaji135" /> </p>
 
 
 
