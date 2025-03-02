@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Full Stack Developer**
 
-- 📫 How to reach me **<a href="www.linkedin.com/in/adarsh-raghu3230">Click Me </a>**
+- 📫 How to reach me **<a href="www.linkedin.com/in/adarsh-raghu3230/">Click Me </a>**
 
 <h3 align="left">Connect with me:</h3>
 
