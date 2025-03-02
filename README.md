@@ -28,10 +28,6 @@
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/adarsh-raghu3230/">Click Me </a>**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left"> <a href="https://dev.to/joyalshaji135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/joyalshaji135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/joel.shaji.902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/joyalshaji135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/_._jo_y_al_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joyal-shaji-27ba8b21a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@joyalshaji135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/22433596/joyal-shaji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://twitter.com/joyalshaji135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -54,10 +50,10 @@
 <hr>
 
 <h1 align="center">
-    Hey how´s it going? Be welcome! 😃️
+    Hey, legend! Welcome aboard! 😎🔥
   </h1>
    <p align="center">
-    Come codar with me, your contribution will be very welcome! 😉️
+    Come code with me💻, Let’s build something awesome together! 😉️
   </p> 
 </div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
